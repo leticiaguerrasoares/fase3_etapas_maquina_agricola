@@ -146,8 +146,8 @@ Ordenação decrescente por `PH_SOLO` e limitação do resultado (top 10). Útil
 ![Funções estatísticas (AVG, MIN, MAX)](docs/print_stats.png)
 
 Agregações para síntese dos dados: médias e extremos (MIN/MAX). Utilizamos `ROUND` para duas casas em variáveis contínuas, obtendo indicadores que resumem o comportamento do período monitorado.
-## Vídeo de Apresentação
-O vídeomostra a estrutura do repositório, o processo de importação no Oracle e as consultas sendo executadas.
+## Vídeo Demonstrativo 
+🔗 [LINK DO VÍDEO] (https://youtu.be/Txpuv0JD0wU)
 
 ## Estrutura do Projeto
 ```
