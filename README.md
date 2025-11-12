@@ -103,14 +103,16 @@ FROM SENSORES_FARMTECH;
 Por que usar: sumariza o comportamento das variáveis; mínimos e máximos mostram limites observados enquanto as médias servem de referência operacional.
 
 ## Resultados Obtidos
-- **pH (mín–máx)**: **6.35 – 6.85**  
-- **Médias gerais**:
-  - Umidade do solo: **58.92%**  
-  - Temperatura: **25.04 °C**  
-  - Umidade do ar: **60.29%**  
 
-Esses resultados ajudam a entender o comportamento das variáveis ambientais durante a simulação e servem de base para futuras análises sobre irrigação e controle automático do solo.
+A consulta de estatísticas (AVG, MAX e MIN) sobre a variável **UMIDADE_SOLO** retornou os seguintes valores:
 
+- **Média da umidade do solo:** 58,93 %
+- **Máxima registrada:** 79,2 %
+- **Mínima registrada:** 37,8 %
+
+Esses resultados mostram a variação da umidade do solo durante o período de coleta.  
+Valores abaixo de 60% indicam momentos em que a irrigação tende a ser acionada,  
+enquanto valores acima de 70% indicam solo úmido e bomba desligada.
 
 ## Evidências (prints)
 Importação de dados (Assistente do Oracle SQL Developer):
