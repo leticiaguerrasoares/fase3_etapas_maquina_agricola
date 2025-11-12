@@ -163,7 +163,7 @@ O vídeomostra a estrutura do repositório, o processo de importação no Oracle
 ## Vídeo Demonstrativo 
 🔗 [LINK DO VÍDEO] (https://youtu.be/J9iB4t9So8U)
 
-## Prints da Interface
+## Capturas de Tela da Interface
 ### Métricas Principais
 ![Métricas Principais](prints/print1.png)
 *Exibição das últimas leituras dos sensores: Umidade, pH, Nitrogênio, Fósforo e Potássio.*
