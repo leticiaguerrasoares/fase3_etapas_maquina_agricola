@@ -149,9 +149,6 @@ Agregações para síntese dos dados: médias e extremos (MIN/MAX). Utilizamos `
 ## Vídeo de Apresentação
 O vídeomostra a estrutura do repositório, o processo de importação no Oracle e as consultas sendo executadas.
 
-## Programa Ir Além 1 - Dashboard em Python
-🔗 [LINK DO VÍDEO] (https://youtu.be/J9iB4t9So8U)
-
 ## Estrutura do Projeto
 ```
 /
@@ -160,3 +157,21 @@ O vídeomostra a estrutura do repositório, o processo de importação no Oracle
  ┣ src/   → consultas.sql (DDL + consultas)
  └ README.md
 ```
+
+# Programa Ir Além 1 - Dashboard em Python
+
+## Vídeo Demonstrativo 
+🔗 [LINK DO VÍDEO] (https://youtu.be/J9iB4t9So8U)
+
+## Prints da Interface
+### Métricas Principais
+![Métricas Principais](prints/print1.png)
+*Exibição das últimas leituras dos sensores: Umidade, pH, Nitrogênio, Fósforo e Potássio.*
+
+### Gráficos Interativos
+![Gráficos Interativos](prints/print2.png)
+*Análise temporal com gráficos interativos de Umidade/pH e Nutrientes (N, P, K) com zoom e exploração.*
+
+### Sistema de Recomendação de Irrigação
+![Sistema de Irrigação](prints/print3.png)
+*Recomendações inteligentes baseadas em temperatura, umidade do ar e umidade do solo.*
