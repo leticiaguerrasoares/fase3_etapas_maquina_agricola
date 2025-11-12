@@ -147,8 +147,7 @@ Ordenação decrescente por `PH_SOLO` e limitação do resultado (top 10). Útil
 
 Agregações para síntese dos dados: médias e extremos (MIN/MAX). Utilizamos `ROUND` para duas casas em variáveis contínuas, obtendo indicadores que resumem o comportamento do período monitorado.
 ## Vídeo de Apresentação
-O vídeo !LINK! mostra a estrutura do repositório, o processo de importação no Oracle e as consultas sendo executadas.
-********📎 Link: ADDICIONAR LINK*****************************************************
+O vídeomostra a estrutura do repositório, o processo de importação no Oracle e as consultas sendo executadas.
 
 ## Estrutura do Projeto
 ```
