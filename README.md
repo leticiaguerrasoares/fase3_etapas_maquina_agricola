@@ -177,3 +177,12 @@ Agregações para síntese dos dados: médias e extremos (MIN/MAX). Utilizamos `
 ### Sistema de Recomendação de Irrigação
 ![Sistema de Irrigação](docs/print3.png)
 *Recomendações inteligentes baseadas em temperatura, umidade do ar e umidade do solo.*
+
+---
+
+# Ir Além 2 - Machine Learning no Agro
+
+Notebook enviado junto com o arquivo txt que aponta para este repositório
+
+## Vídeo
+🔗 [LINK DO VÍDEO] (https://youtu.be/pic7SCPDPn0)
