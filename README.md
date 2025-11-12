@@ -165,13 +165,13 @@ O vídeomostra a estrutura do repositório, o processo de importação no Oracle
 
 ## Capturas de Tela da Interface
 ### Métricas Principais
-![Métricas Principais](prints/print1.png)
+![Métricas Principais](docs/print1.png)
 *Exibição das últimas leituras dos sensores: Umidade, pH, Nitrogênio, Fósforo e Potássio.*
 
 ### Gráficos Interativos
-![Gráficos Interativos](prints/print2.png)
+![Gráficos Interativos](docs/print2.png)
 *Análise temporal com gráficos interativos de Umidade/pH e Nutrientes (N, P, K) com zoom e exploração.*
 
 ### Sistema de Recomendação de Irrigação
-![Sistema de Irrigação](prints/print3.png)
+![Sistema de Irrigação](docs/print3.png)
 *Recomendações inteligentes baseadas em temperatura, umidade do ar e umidade do solo.*
