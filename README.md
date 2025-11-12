@@ -95,11 +95,9 @@ Por que usar: extremos de pH ajudam a identificar possíveis riscos de indisponi
 ###  Consulta 4 — Cálculo de médias e extremos:
 ```sql
 SELECT
-  ROUND(AVG(UMIDADE_SOLO),2) AS MEDIA_UMIDADE_SOLO,
-  ROUND(AVG(TEMPERATURA),2)  AS MEDIA_TEMPERATURA,
-  ROUND(AVG(UMIDADE_AR),2)   AS MEDIA_UMIDADE_AR,
-  MIN(PH_SOLO)               AS PH_MIN,
-  MAX(PH_SOLO)               AS PH_MAX
+  ROUND(AVG(UMIDADE_SOLO), 2) AS MEDIA_UMIDADE,
+  MAX(UMIDADE_SOLO) AS MAX_UMIDADE,
+  MIN(UMIDADE_SOLO) AS MIN_UMIDADE
 FROM SENSORES_FARMTECH;
 ```
 Por que usar: sumariza o comportamento das variáveis; mínimos e máximos mostram limites observados enquanto as médias servem de referência operacional.
