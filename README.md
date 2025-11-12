@@ -158,6 +158,8 @@ O vídeomostra a estrutura do repositório, o processo de importação no Oracle
  └ README.md
 ```
 
+---
+
 # Programa Ir Além 1 - Dashboard em Python
 
 ## Vídeo Demonstrativo 
