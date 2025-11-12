@@ -147,6 +147,9 @@ Agregações para síntese dos dados: médias e extremos (MIN/MAX). Utilizamos `
 ## Vídeo de Apresentação
 O vídeomostra a estrutura do repositório, o processo de importação no Oracle e as consultas sendo executadas.
 
+## Vídeo Dashboard em Python - Ir além 1
+🔗 [LINK DO VÍDEO] (https://youtu.be/J9iB4t9So8U)
+
 ## Estrutura do Projeto
 ```
 /
