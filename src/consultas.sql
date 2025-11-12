@@ -42,9 +42,3 @@ SELECT
   MAX(UMIDADE_SOLO) AS MAX_UMIDADE,
   MIN(UMIDADE_SOLO) AS MIN_UMIDADE
 FROM SENSORES_FARMTECH;
-
-
-
--- ===========================================================
--- Fim do arquivo consultas.sql
--- ===========================================================
